@@ -1,1 +1,2 @@
 hi this is my first git program.
+this is realted to hadoop project.
